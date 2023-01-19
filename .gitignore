@@ -5,6 +5,16 @@ node_modules
 # Ignore vendor folder
 vendor
 
+#Ignaore Drupal Files
+.config
+.lock
+.gitattributes
+.eslintrc.josn
+.eslintignore
+.editorconfig
+.csslintrc
+example.gitignore
+
 # Ignore core folder
 core
 
