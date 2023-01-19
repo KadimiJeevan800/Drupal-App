@@ -1,4 +1,4 @@
-
+.vscode
 # Ignore node_modules folder
 node_modules
 
@@ -15,9 +15,9 @@ vendor
 .csslintrc
 example.gitignore
 
-# Ignore core folder
-core
+#Ignore Core module
 
+core
 
 # Ignore all text files
 *.txt
